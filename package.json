@@ -1,0 +1,17 @@
+{
+  "name": "@cinatra-ai/brand-voice-matcher-skill",
+  "version": "0.1.0",
+  "license": "Apache-2.0",
+  "description": "Classifies an attached resource as a Brand Voice / tone-of-voice guide. Extracted from @cinatra-ai/brand-voice-artifact (cinatra#2090).",
+  "type": "module",
+  "files": [
+    "skills"
+  ],
+  "cinatra": {
+    "apiVersion": "cinatra.ai/v1",
+    "kind": "skill",
+    "displayName": "Brand Voice Matcher Skill",
+    "skillRole": "matcher",
+    "dependencies": []
+  }
+}
